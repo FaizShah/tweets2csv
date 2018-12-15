@@ -12,5 +12,5 @@ Simply type:
     
     python3 tweets2csv <twitter_handle> <output_csv> <days>
 
-Optionally, add --cloud and/or --likes to get either a word cloud or some 
+Optionally, add `--cloud` and/or `--likes` to get either a word cloud or some 
 info on the user's likes as a graph respectively.
